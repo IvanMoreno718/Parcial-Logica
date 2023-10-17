@@ -1,0 +1,21 @@
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\obj\Debug\net6.0-windows7.0\Parcial Logica.vbproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\obj\Debug\net6.0-windows7.0\Parcial_Logica.FrmMain.resources
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\obj\Debug\net6.0-windows7.0\Parcial Logica.vbproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\obj\Debug\net6.0-windows7.0\Parcial Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\obj\Debug\net6.0-windows7.0\Parcial Logica.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\obj\Debug\net6.0-windows7.0\Parcial Logica.AssemblyInfo.vb
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\obj\Debug\net6.0-windows7.0\Parcial Logica.vbproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\bin\Debug\net6.0-windows7.0\Parcial Logica.exe
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\bin\Debug\net6.0-windows7.0\Parcial Logica.deps.json
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\bin\Debug\net6.0-windows7.0\Parcial Logica.runtimeconfig.json
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\bin\Debug\net6.0-windows7.0\Parcial Logica.dll
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\bin\Debug\net6.0-windows7.0\Parcial Logica.pdb
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\obj\Debug\net6.0-windows7.0\Parcial Logica.dll
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\obj\Debug\net6.0-windows7.0\refint\Parcial Logica.dll
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\obj\Debug\net6.0-windows7.0\Parcial Logica.pdb
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\obj\Debug\net6.0-windows7.0\Parcial Logica.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\obj\Debug\net6.0-windows7.0\ref\Parcial Logica.dll
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\obj\Debug\net6.0-windows7.0\Parcial_Logica.FrmLogin.resources
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\obj\Debug\net6.0-windows7.0\Parcial_Logica.FrmCambio.resources
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\obj\Debug\net6.0-windows7.0\Parcial_Logica.FrmLotes.resources
+C:\Users\usuario\source\repos\Parcial Logica\Parcial Logica\obj\Debug\net6.0-windows7.0\Parcial_Logica.Resources.resources
